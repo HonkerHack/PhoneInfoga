@@ -13,7 +13,7 @@ $pkg install python3
 
 $pkg install -y git
 
-​$git clone https://github.com/sundowndev/PhoneInfoga
+​$git clone https://github.com/HonkerHack/PhoneInfoga
 
 ABRIR NUEVA SESIÓN PEGAR TODO ESO
 
